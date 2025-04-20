@@ -1,0 +1,14 @@
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\bin\Debug\net6.0\LuckyNumberGenerator.exe
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\bin\Debug\net6.0\LuckyNumberGenerator.deps.json
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\bin\Debug\net6.0\LuckyNumberGenerator.runtimeconfig.json
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\bin\Debug\net6.0\LuckyNumberGenerator.dll
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\bin\Debug\net6.0\LuckyNumberGenerator.pdb
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\LuckyNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\LuckyNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\LuckyNumberGenerator.AssemblyInfo.cs
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\LuckyNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\LuckyNumberGenerator.dll
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\refint\LuckyNumberGenerator.dll
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\LuckyNumberGenerator.pdb
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\LuckyNumberGenerator.genruntimeconfig.cache
+C:\Users\MxoleliCwati\source\repos\LuckyNumberGenerator\obj\Debug\net6.0\ref\LuckyNumberGenerator.dll

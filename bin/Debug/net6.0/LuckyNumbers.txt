@@ -1,0 +1,13 @@
+2025-03-21 13:15:10 | Lucky Numbers: 14, 16, 41, 45, 48 | Bonus: 1
+2025-04-02 18:21:31 | Lucky Numbers: 5, 13, 17, 20, 22 | Bonus: 2
+2025-04-04 09:18:08 | Lucky Numbers: 19, 20, 34, 37, 49 | Bonus: 8
+2025-04-04 09:19:47 | Lucky Numbers: 21, 29, 31, 34, 36 | Bonus: 7
+2025-04-04 09:21:41 | Lucky Numbers: 8, 20, 31, 46, 49 | Bonus: 3
+2025-04-08 18:15:03 | Lucky Numbers: 7, 9, 30, 31, 35 | Bonus: 2
+2025-04-08 18:18:17 | Lucky Numbers: 9, 15, 23, 47, 49 | Bonus: 6
+2025-04-08 18:20:16 | Lucky Numbers: 4, 14, 21, 29, 48 | Bonus: 2
+2025-04-08 18:20:26 | Lucky Numbers: 8, 12, 30, 31, 37 | Bonus: 4
+2025-04-08 18:20:34 | Lucky Numbers: 1, 11, 25, 36, 49 | Bonus: 3
+2025-04-08 18:20:43 | Lucky Numbers: 6, 35, 40, 45, 48 | Bonus: 5
+2025-04-08 18:20:48 | Lucky Numbers: 8, 26, 31, 33, 45 | Bonus: 3
+2025-04-08 18:20:57 | Lucky Numbers: 3, 6, 9, 30, 46 | Bonus: 2
